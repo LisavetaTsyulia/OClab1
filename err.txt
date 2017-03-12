@@ -1,0 +1,3 @@
+lab1.sh: «/etc/ssl/private»: Отказано в доступе
+lab1.sh: «/etc/polkit-1/localauthority»: Отказано в доступе
+lab1.sh: «/etc/cups/ssl»: Отказано в доступе
